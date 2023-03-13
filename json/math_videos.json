@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Algebre I",
+    "time": "45 minutes",
+    "thumbnail": "assets/book1.png",
+    "videoUrl": "https://st.bslmeiyu.com/uploads/20170706/The%20Bananas%20Song%20%20Counting%20Bananas%20%20Super%20Simple%20Songs.mp4"
+  },
+  {
+    "title": "Fonctions I",
+    "time": "55 minutes",
+    "thumbnail": "assets/book2.png",
+    "videoUrl": "https://flutter.github.io/assets-for-api-docs/assets/videos/butterfly.mp4"
+  },
+  {
+    "title": "Nombres complex",
+    "time": "15 minutes",
+    "thumbnail": "assets/book3.png",
+    "videoUrl": "https://flutter.github.io/assets-for-api-docs/assets/videos/butterfly.mp4"
+  },
+  {
+    "title": "Geometrie",
+    "time": "20 minutes",
+    "thumbnail": "assets/book4.png",
+    "videoUrl": "https://flutter.github.io/assets-for-api-docs/assets/videos/butterfly.mp4"
+  }
+
+]
